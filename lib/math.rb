@@ -29,7 +29,7 @@ end
 modulo(4,10)
 
 def square_root(num)
-  n(um / num)
+  (num)
 end
 
-square_root(81)
+square_root(100)
