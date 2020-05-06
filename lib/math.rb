@@ -32,4 +32,4 @@ def square_root(num)
   num / num
 end
 
-square_root(100)
+square_root(81)
