@@ -5,10 +5,10 @@ end
 addition(5,4)
 
 def subtraction(num1, num2)
-  num1 + num2
+  num1 - num2
 end
 
-subtration(3,2)
+subtraction(3,2)
 
 def division(num1, num2)
 
