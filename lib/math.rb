@@ -29,7 +29,7 @@ end
 modulo(4,10)
 
 def square_root(num)
-  sqrt(num)
+  math.sqrt(num)
 end
 
 square_root(100)
