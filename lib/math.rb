@@ -17,12 +17,16 @@ end
 division(12,6)
 
 def multiplication(num1, num2)
-
+  num1 * num2
 end
+
+multiplication(100,100)
 
 def modulo(num1, num2)
-
+  num1 % num2
 end
+
+modulo(4,10)
 
 def square_root(num)
 
